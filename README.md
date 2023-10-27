@@ -1,2 +1,7 @@
-# wp-stateless-wp-smushit-addon
-WP-Stateless - Smash Addon
+# WP-Stateless - Smush Addon
+
+Provides compatibility between Smush and WP-Stateless plugins.
+
+### Development
+
+Run tests: `composer test`
